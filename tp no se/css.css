@@ -1,0 +1,39 @@
+#niggaone {
+    width: 250px;
+    height: 100px;
+    background-color: red;
+    border-style: solid;
+    border-color: black;
+    padding: 50px;
+    margin: auto;
+    margin: 50px
+    box-sizing: border-box;
+}
+#niggatwo {
+    width: 10px;
+    height: 10px;
+    background-color: gray;
+    border-style: solid;
+    border-color: black;
+    padding: 10px;
+    box-sizing: content-box;
+} 
+#niggathree {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    border-style: solid;
+    border-color: black;
+    padding: 50px;
+    margin: auto;
+    box-sizing: content-box;
+}
+#niggafour {
+    width: 500px;
+    height: 125px;
+    border-color: black;
+    border-style: solid;
+    background-color: yellow;
+    padding: 50px;
+    margin: auto;
+}
